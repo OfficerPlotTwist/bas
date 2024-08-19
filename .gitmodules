@@ -1,0 +1,3 @@
+[submodule "PyBas/IO/mandrake_io"]
+	path = PyBas/IO/mandrake_io
+	url = /Users/conward/dev/mandrake-io
